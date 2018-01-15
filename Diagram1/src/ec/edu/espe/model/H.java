@@ -9,6 +9,6 @@ package ec.edu.espe.model;
  *
  * @author BJ
  */
-public class H extends G{
+public interface H {
 
 }    

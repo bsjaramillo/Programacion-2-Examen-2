@@ -10,5 +10,5 @@ package ec.edu.espe.model;
  * @author BJ
  */
 public class B extends A{
-    private H h[];
+    private G g[];
 }

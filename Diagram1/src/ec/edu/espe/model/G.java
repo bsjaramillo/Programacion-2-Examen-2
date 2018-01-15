@@ -9,9 +9,6 @@ package ec.edu.espe.model;
  *
  * @author BJ
  */
-public class G {
-    public void method (J j){
-        
-    }
+public class G implements H{
     
 }

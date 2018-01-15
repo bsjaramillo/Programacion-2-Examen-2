@@ -10,5 +10,8 @@ package ec.edu.espe.model;
  * @author BJ
  */
 public class J {
+    public void method (G g){
+        
+    }
     
 }
