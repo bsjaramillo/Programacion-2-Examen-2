@@ -11,7 +11,7 @@ package ec.edu.espe.model;
  */
 public class E {
     private A a;
-    private B[] b;
+    private B[] b=new B[10];
     public void m2(C z){
         
     }
