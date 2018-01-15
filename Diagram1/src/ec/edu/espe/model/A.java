@@ -10,6 +10,6 @@ package ec.edu.espe.model;
  * @author BJ
  */
 public class A {
-    private A a[];
+    private A[] ejemplo = new A[10];
     
 }
